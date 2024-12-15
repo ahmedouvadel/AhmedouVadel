@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedouVadel&color=blue&style=flat-square)
+
 # 👋 Hi, I'm Ahmedou Vadel!
 
 🎓 **Software Engineering Student**  
