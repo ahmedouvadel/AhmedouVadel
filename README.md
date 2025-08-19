@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmedou Vadel!
 
-🎓 **Software Engineering Student**  
+🎓 **Software Engineer**  
 🌟 Passionate about crafting clean and scalable applications.  
 🛠️ Skilled in **Angular**, **Spring Boot**, **React Native**, **Flutter**, **Next.js**, and **Node.js (Express)**.  
 💡 **GDG OnCampus Technical Specialist** @ EPI Connect.  
